@@ -1,0 +1,47 @@
+.analysis-result {
+  width: 100%;
+  max-width: 800px;
+  margin: 24px auto;
+  padding: 24px;
+  background-color: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+}
+
+.analysis-result h2 {
+  font-size: 22px;
+  font-weight: 700;
+  color: var(--color-text);
+  margin-bottom: 24px;
+}
+
+.analysis-result > div {
+  margin-bottom: 20px;
+}
+
+.analysis-result h3 {
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--color-text);
+  margin-bottom: 8px;
+}
+
+.analysis-result p {
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--color-text-secondary);
+}
+
+.analysis-result pre {
+  background-color: var(--color-code-bg);
+  color: #F8FAFC;
+  padding: 16px;
+  border-radius: 8px;
+  overflow-x: auto;
+}
+
+.analysis-result code {
+  font-family: monospace;
+  font-size: 14px;
+  line-height: 1.6;
+}

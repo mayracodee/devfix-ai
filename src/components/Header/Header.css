@@ -1,0 +1,25 @@
+header {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 48px 24px;
+  text-align: center;
+}
+
+header h1{
+    font-size: 28px;
+    font-weight: 700;
+    color: var(--color-primary);
+}
+
+header h2{
+    font-size: 36px;
+    font-weight: 600;
+    margin-top: 16px;
+}
+
+header p{
+    font-size: 16px;
+    color: var(--color-text-secondary);
+    margin-top: 8px;
+}

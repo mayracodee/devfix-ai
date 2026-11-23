@@ -1,0 +1,6 @@
+{
+  "language": "javascript",
+  "code": "console.log(usuario);",
+  "errorMessage": "ReferenceError: usuario is not defined",
+  "explanationLevel": "beginner"
+}

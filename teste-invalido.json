@@ -1,0 +1,5 @@
+{
+  "language": "javascript",
+  "errorMessage": "ReferenceError: usuario is not defined",
+  "explanationLevel": "beginner"
+}

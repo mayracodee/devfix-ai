@@ -1,0 +1,1 @@
+{"code":"function somar(a, b) { return a + }","errorMessage":"SyntaxError: Unexpected token \u0027}\u0027","language":"JavaScript","explanationLevel":"beginner"}
